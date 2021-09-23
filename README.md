@@ -7,7 +7,7 @@ A build.xml ant file is provided for compiling and executing convenience.
 Steps to run the game:
 - Open a terminal to the downloaded repository location.
 - Now, compile the .java files by running `ant`, this will created a /bin directory and place all .class files there.
-- In order to run the game, use:`ant run -Dargs="Level numbers"`.
+- In order to run the game, use `ant run -Dargs="Level numbers"`.
   - For example, `ant run -Dargs="1 3 2 4"` will run levels 1, 3, 2, 4.
 - Now, after you've enjoyed playing the game and want an easy removal of the /bin folder, you can use `ant clean`
 
