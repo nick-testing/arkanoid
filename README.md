@@ -5,7 +5,7 @@ The game contains four levels of varying difficulty which can be played in any o
 
 <h3>Prerequisites</h3>
 
-- JDK(written using OpenJDK 15 but might compile on other versions)
+- JDK(tested on OpenJDK 15 but might compile on other versions)
 - Optional: [Ant](https://ant.apache.org/)
 
 A build.xml ant file is provided for compiling and executing convenience.
@@ -17,6 +17,12 @@ Steps to run the game:
 - Now, after you've enjoyed playing the game and want an easy removal of the /bin folder, you can use `ant clean`
 
 
+## Screenshots
+
+<img src="https://user-images.githubusercontent.com/80259776/156460497-f1cbfbfe-18f0-4f0f-a412-dba0bd8cc2d2.png" width = 50% height=50% title="Level 1"><img src="https://user-images.githubusercontent.com/80259776/156460506-7ec078ce-e608-4278-baef-19faa82e0524.png" width=50% height=50% title="Level 2">
+<img src="https://user-images.githubusercontent.com/80259776/156460531-ebafc42a-7dae-480f-844c-ad423d785d6e.png" width=50% height=50% title="Level 3"><img src="https://user-images.githubusercontent.com/80259776/156460538-1c32fde4-0bb5-4abf-87b2-e541349686af.png" width=50% height=50% title="Level4">
 
 
-The library "biuoop-1.4.jar" was provided by the Bar-Ilan Univrsity OOP course instructors and contains various GUI elements which I used in this project.
+
+
+_The library "biuoop-1.4.jar" was provided by the Bar-Ilan Univrsity OOP course instructors and contains various GUI elements which I used in this project._
