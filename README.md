@@ -11,7 +11,7 @@ The game contains four levels of varying difficulty which can be played in any o
 A build.xml ant file is provided for compiling and executing convenience.
 Steps to run the game:
 - Clone the repository using `git clone` and `cd` to the downloaded **arkanoid** folder.
-- Now, compile the .java files by running `ant`, this will created a /bin directory and place all .class files there.
+- Compile the .java files by running `ant`, this will created a /bin directory and place all .class files there.
 - In order to run the game, use `ant run -Dargs="Level numbers"`.
   - For example, `ant run -Dargs="1 3 2 4"` will run levels 1, 3, 2, 4.
 - Now, after you've enjoyed the game use `ant clean` to remove the /bin folder.
